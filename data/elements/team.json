@@ -180,7 +180,122 @@
       "details": [
         {
           "img": "/images/contact/full-stack-java.jpg",
-          "name": "Full Stack Java/Python"
+          "name": "<b>650+</b><br>Java Full Stack "
+        }
+      ]
+    },
+    {
+      "img": "/images/contact/data-science.jpg",
+      "isLarge": false,
+      "isActive": false,
+      "details": [
+        {
+          "img": "/images/contact/data-science.jpg",
+          "name": "<b>637+</b><br>Data Science & Analytics"
+        }
+      ]
+    },
+    {
+      "img": "/images/contact/bi-visualization.jpg",
+      "isLarge": false,
+      "isActive": false,
+      "details": [
+        {
+          "img": "/images/contact/bi-visualization.jpg",
+          "name": "<b>418+</b><br>Power BI"
+        }
+      ]
+    },
+    {
+      "img": "/images/contact/cyber-security.jpg",
+      "isLarge": true,
+      "isActive": false,
+      "details": [
+        {
+          "img": "/images/contact/cyber-security.jpg",
+          "name": "<b>482+</b><br>Cyber & Network Security"
+        }
+      ]
+    },
+     
+    {
+      "img": "/images/contact/cloud-computing.jpg",
+      "isLarge": false,
+      "isActive": false,
+      "details": [
+        {
+          "img": "/images/contact/cloud-computing.jpg",
+          "name": "<b>381 +</b><br>Cloud AWS"
+        }
+      ]
+    },
+      
+    {
+      "img": "/images/contact/devops.jpg",
+      "isLarge": false,
+      "isActive": false,
+      "details": [
+        {
+          "img": "/images/contact/devops.jpg",
+          "name": "<b>286+</b><br>DevOps"
+        }
+      ]
+    },
+    {
+      "img": "/images/contact/programming-frameworks.jpg",
+      "isLarge": false,
+      "isActive": false,
+      "details": [
+        {
+          "img": "/images/contact/programming-frameworks.jpg",
+          "name": "<b>32K+</b><br>C++ Programmers"
+        }
+      ]
+    },
+    {
+      "img": "/images/contact/programming-frameworks.jpg",
+      "isLarge": false,
+      "isActive": false,
+      "details": [
+        {
+          "img": "/images/contact/programming-frameworks.jpg",
+          "name": "<b>25K+</b><br>Python Programmers"
+        }
+      ]
+    },
+    {
+      "img": "/images/contact/full-stack-java.jpg",
+      "isLarge": true,
+      "isActive": true,
+      "details": [
+        {
+          "img": "/images/contact/full-stack-java.jpg",
+          "name": "<b>28K+</b><br>Java Programmers "
+        }
+      ]
+    },
+       
+    {
+      "img": "/images/contact/architecture-design-patterns.jpg",
+      "isLarge": false,
+      "isActive": false,
+      "details": [
+        {
+          "img": "/images/contact/architecture-design-patterns.jpg",
+          "name": "<b>18K+</b><br>Data Structure Experts"
+        }
+      ]
+    },
+
+
+    {
+      "img": "/images/contact/programming-frameworks.jpg",
+      "isLarge": false,
+      "isActive": false,
+      "details": [
+        {
+          "img": "/images/contact/programming-frameworks.jpg",
+          "name": "<b>18K+</b><br>Algorithm Experts"
         }
       ]
     },
@@ -207,46 +322,13 @@
       ]
     },
     {
-      "img": "/images/contact/cyber-security.jpg",
-      "isLarge": true,
-      "isActive": false,
-      "details": [
-        {
-          "img": "/images/contact/cyber-security.jpg",
-          "name": "Cyber Security"
-        }
-      ]
-    },
-    {
-      "img": "/images/contact/cloud-computing.jpg",
+      "img": "/images/contact/programming-frameworks.jpg",
       "isLarge": false,
       "isActive": false,
       "details": [
         {
-          "img": "/images/contact/cloud-computing.jpg",
-          "name": "Cloud Computing"
-        }
-      ]
-    },
-    {
-      "img": "/images/contact/ai&ml.jpg",
-      "isLarge": false,
-      "isActive": false,
-      "details": [
-        {
-          "img": "/images/contact/ai&ml.jpg",
-          "name": "AI & ML"
-        }
-      ]
-    },
-    {
-      "img": "/images/contact/data-science.jpg",
-      "isLarge": false,
-      "isActive": false,
-      "details": [
-        {
-          "img": "/images/contact/data-science.jpg",
-          "name": "Data Science"
+          "img": "/images/contact/programming-frameworks.jpg",
+          "name": "Programming & Frameworks"
         }
       ]
     },
@@ -262,50 +344,6 @@
       ]
     },
     {
-      "img": "/images/team/team-09.jpg",
-      "isLarge": false,
-      "isActive": false,
-      "details": [
-        {
-          "img": "/images/team/mobile-deve.jpg",
-          "name": "Mobile Development"
-        }
-      ]
-    },
-    {
-      "img": "/images/contact/devops.jpg",
-      "isLarge": false,
-      "isActive": false,
-      "details": [
-        {
-          "img": "/images/contact/devops.jpg",
-          "name": "DevOps"
-        }
-      ]
-    },
-    {
-      "img": "/images/contact/bi-visualization.jpg",
-      "isLarge": false,
-      "isActive": false,
-      "details": [
-        {
-          "img": "/images/contact/bi-visualization.jpg",
-          "name": "BI and Visualization"
-        }
-      ]
-    },
-    {
-      "img": "/images/contact/programming-frameworks.jpg",
-      "isLarge": false,
-      "isActive": false,
-      "details": [
-        {
-          "img": "/images/contact/programming-frameworks.jpg",
-          "name": "Programming & Frameworks"
-        }
-      ]
-    },
-    {
       "img": "/images/contact/architecture-design-patterns.jpg",
       "isLarge": false,
       "isActive": false,
@@ -317,13 +355,24 @@
       ]
     },
     {
-      "img": "/images/contact/rpa.jpg",
+      "img": "/images/contact/finance.jpg",
       "isLarge": false,
       "isActive": false,
       "details": [
         {
-          "img": "/images/contact/rpa.jpg",
-          "name": "RPA"
+          "img": "/images/contact/finance.jpg",
+          "name": "Finance"
+        }
+      ]
+    },
+    {
+      "img": "/images/team/team-09.jpg",
+      "isLarge": false,
+      "isActive": false,
+      "details": [
+        {
+          "img": "/images/team/mobile-deve.jpg",
+          "name": "Mobile Development"
         }
       ]
     },
@@ -339,6 +388,28 @@
       ]
     },
     {
+      "img": "/images/contact/ai&ml.jpg",
+      "isLarge": false,
+      "isActive": false,
+      "details": [
+        {
+          "img": "/images/contact/ai&ml.jpg",
+          "name": "AI & ML"
+        }
+      ]
+    },
+    {
+      "img": "/images/contact/ai&ml.jpg",
+      "isLarge": false,
+      "isActive": false,
+      "details": [
+        {
+          "img": "/images/contact/rpa.jpg",
+          "name": "RPA"
+        }
+      ]
+    },
+    {
       "img": "/images/contact/softskills.jpg",
       "isLarge": false,
       "isActive": false,
@@ -346,17 +417,6 @@
         {
           "img": "/images/contact/softskills.jpg",
           "name": "Softskills"
-        }
-      ]
-    },
-    {
-      "img": "/images/contact/finance.jpg",
-      "isLarge": false,
-      "isActive": false,
-      "details": [
-        {
-          "img": "/images/contact/finance.jpg",
-          "name": "Finance"
         }
       ]
     }

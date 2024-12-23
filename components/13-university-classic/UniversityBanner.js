@@ -33,7 +33,7 @@ const UniversityBanner = () => {
           <SwiperSlide className="swiper-slide">
             <div
               className="rbt-banner-area rbt-banner-6 variation-03 bg_image bg_image--17"
-              data-gradient-overlay="5"
+             
             >
               <div className="wrapper w-100">
                 <div className="container">
@@ -41,24 +41,24 @@ const UniversityBanner = () => {
                     <div className="col-lg-12">
                       <div className="inner text-center">
                         <div className="section-title">
-                          <span className="subtitle bg-white-opacity d-inline-block">
+                          {/* <span className="subtitle bg-white-opacity d-inline-block">
                           Lorem ipsum dolor sit amet
-                          </span>
+                          </span> */}
                         </div>
                         <h1 className="title w-700">
-                        Suspendisse eu arcu massa <br />{" "}
+                        {/* Suspendisse eu arcu massa <br />{" "}
                           <strong className="color-white">
                           condimentum ipsum.
-                          </strong>
+                          </strong> */}
                         </h1>
                         <div className="button-group mt--30">
                           <Link
                             className="rbt-btn btn-gradient rbt-marquee-btn"
                             href="#"
                           >
-                            <span data-text="More About University">
+                            {/* <span data-text="More About University">
                              Know More
-                            </span>
+                            </span> */}
                           </Link>
                         </div>
                     
@@ -72,8 +72,8 @@ const UniversityBanner = () => {
 
           <SwiperSlide className="swiper-slide">
             <div
-              className="rbt-banner-area rbt-banner-6 variation-03 bg_image bg_image--21"
-              data-black-overlay="5"
+              className="rbt-banner-area rbt-banner-6 variation-03 bg_image bg_image--18"
+            
             >
               <div className="wrapper w-100">
                 <div className="container">
@@ -81,24 +81,24 @@ const UniversityBanner = () => {
                     <div className="col-lg-12">
                       <div className="inner text-center">
                         <div className="section-title">
-                          <span className="subtitle bg-white-opacity d-inline-block">
+                          {/* <span className="subtitle bg-white-opacity d-inline-block">
                           Lorem ipsum dolor sit amet
-                          </span>
+                          </span> */}
                         </div>
                         <h1 className="title w-700">
-                        Mauris elementum mauris eget  <br />{" "}
+                        {/* Mauris elementum mauris eget  <br />{" "}
                           <strong className="color-white">
                           augue ultrices.
-                          </strong>
+                          </strong> */}
                         </h1>
                         <div className="button-group mt--30">
                           <Link
                             className="rbt-btn btn-gradient rbt-marquee-btn radius-round"
                             href="#"
                           >
-                            <span data-text="More About University">
+                            {/* <span data-text="More About University">
                               Know More
-                            </span>
+                            </span> */}
                           </Link>
                         </div>
                  
@@ -113,7 +113,7 @@ const UniversityBanner = () => {
           <SwiperSlide className="swiper-slide">
             <div
               className="rbt-banner-area rbt-banner-6 variation-03 bg_image bg_image--16"
-              data-gradient-overlay="5"
+              
             >
               <div className="wrapper w-100">
                 <div className="container">
@@ -121,50 +121,26 @@ const UniversityBanner = () => {
                     <div className="col-lg-12">
                       <div className="inner text-center">
                         <div className="section-title">
-                          <span className="subtitle bg-white-opacity d-inline-block">
+                          {/* <span className="subtitle bg-white-opacity d-inline-block">
                             THE BEST TEMPLATE FOR EDUCATION
-                          </span>
+                          </span> */}
                         </div>
                         <h1 className="title w-700">
-                          Learning keeps you <br />{" "}
-                          <strong className="color-white">in the lead</strong>
+                          {/* Learning keeps you <br />{" "}
+                          <strong className="color-white">in the lead</strong> */}
                         </h1>
                         <div className="button-group mt--30">
                           <Link
                             className="rbt-btn btn-gradient rbt-marquee-btn radius-round"
                             href="#"
                           >
-                            <span data-text="More About University">
+                            {/* <span data-text="More About University">
                               More About University
-                            </span>
+                            </span> */}
                           </Link>
                         </div>
                         <div className="social-share-wrapper mt--40">
-                          <ul className="social-icon social-default transparent-with-border">
-                            <li>
-                              <Link href="https://www.facebook.com/">
-                                <i className="feather-facebook"></i>
-                              </Link>
-                            </li>
-                            <li>
-                              <Link href="https://www.twitter.com">
-                                <i className="feather-twitter"></i>
-                              </Link>
-                            </li>
-                            <li>
-                              <Link href="https://www.instagram.com/">
-                                <i className="feather-instagram"></i>
-                              </Link>
-                            </li>
-                            <li>
-                              <Link href="https://www.linkdin.com/">
-                                <i className="feather-linkedin"></i>
-                              </Link>
-                            </li>
-                          </ul>
-                          <span className="follow-us-text">
-                            Follow By Facebook, Twitter, Instagram, and Linkedin
-                          </span>
+                      
                         </div>
                       </div>
                     </div>

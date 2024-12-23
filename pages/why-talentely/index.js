@@ -64,6 +64,85 @@ const WhyTAlentely = () => {
                   <ServiceEleven isTitle={false} />
                 </div>
               </div>
+              {/* Content for count */}
+              <div className="row row--15">
+           <div className="col-lg-3 col-md-6 col-12 mt--30 text-center  card-bg-4 highlights">
+              <h4>1.5 Lakh+</h4>
+              2025 Passed Out Students
+           </div>
+           <div className="col-lg-3 col-md-6 col-12 mt--30 text-center  card-bg-4 highlights">
+              <h4>6.2 Lakh+</h4>
+              Laterals
+           </div>
+           <div className="col-lg-3 col-md-6 col-12 mt--30 text-center  card-bg-4 highlights">
+              <h4>650+</h4>
+              Java Full stack
+           </div>
+           <div className="col-lg-3 col-md-6 col-12 mt--30 text-center  card-bg-4 highlights">
+              <h4>637+</h4>
+              Data Science & Analytics
+           </div>
+           
+           
+        </div>
+        <div className="row row--15">
+           <div className="col-lg-4 col-md-6 col-12 mt--30 text-center card-bg-1 highlights">
+              <h4>418+</h4>
+              Power BI
+           </div>
+           <div className="col-lg-4 col-md-6 col-12 mt--30 text-center card-bg-1 highlights">
+              <h4>482+</h4>
+              Cyber Security & Network Security
+           </div>
+           <div className="col-lg-4 col-md-6 col-12 mt--30 text-center card-bg-1 highlights">
+              <h4>381+</h4>
+              Cloud AWS
+           </div>
+          
+        </div>
+ 
+        <div className="row row--15">
+        <div className="col-lg-4 col-md-6 col-12 mt--30 text-center card-bg-1 highlights">
+              <h4>286+</h4>
+              DevOps
+           </div>
+          
+           
+        <div className="col-lg-4 col-md-6 col-12 mt--30 text-center card-bg-1 highlights">
+              <h4>32k+</h4>
+              C++ Programmers
+           </div>
+        <div className="col-lg-4 col-md-6 col-12 mt--30 text-center card-bg-1 highlights">
+              <h4>25k+</h4>
+              Python Programmers 
+           </div>
+       
+ 
+
+        </div>
+
+        <div className="row row--15">
+        <div className="col-lg-3 col-md-6 col-12 mt--30 text-center card-bg-4 highlights">
+              <h4>28k+</h4>
+              Java Programmers
+           </div>
+        <div className="col-lg-3 col-md-6 col-12 mt--30 text-center card-bg-4 highlights">
+              <h4>18k+</h4>
+              Data Structure Experts
+           </div>
+         <div className="col-lg-3 col-md-6 col-12 mt--30 text-center card-bg-4 highlights">
+               <h4>18k+</h4>
+               Algorithm Experts
+            </div>
+         <div className="col-lg-3 col-md-6 col-12 mt--30 text-center card-bg-4 highlights">
+               <h4>7.6k+</h4>
+               Other Niche skills
+            </div>
+ 
+         </div>
+     
+              {/* Content for count end*/}
+
             </div>
           </div>
 
