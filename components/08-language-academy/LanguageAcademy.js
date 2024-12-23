@@ -145,7 +145,7 @@ const LanguageAcademy = () => {
         body: [
           {
             text: "Universities & Colleges on Board",
-            num: 700,
+            num: 750,
             top: true,
           },
           {
@@ -159,8 +159,8 @@ const LanguageAcademy = () => {
             top: true,
           },
           {
-            text: "TPO Connects across India ",
-            num: 8000,
+            text: "TPOs and Principal Connects across India",
+            num: 1850,
             top: false,
           },
         ],
