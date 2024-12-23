@@ -413,6 +413,15 @@ const Nav = () => {
           </Link>
         </li>
         <li className="with-megamenu has-menu-child-item position-static">
+          <Link
+            className={` color-white`}
+            onClick={() => {}}
+            href="our-solution"
+          >
+            Our Solution                                                                                                
+          </Link>
+        </li>
+        <li className="with-megamenu has-menu-child-item position-static">
           <Link className={` color-white`} onClick={() => {}} href="contact">
             Contact Us
           </Link>

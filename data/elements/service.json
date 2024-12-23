@@ -627,6 +627,68 @@
       ]
     }
   ],
+
+
+
+  "serviceSolution": [
+    {
+      "sectionTitle": "Style Solution.",
+      "body": [
+        {
+          "title": "LMS – Learning Management System",
+          "imgFront": "/images/solution/solution-img-1.jpg",
+          "img": "/images/solution/solution-img-1.jpg",
+          "desc": "Babies enjoy classrooms made for exploring with teachers who support today’s big milestones.",
+          "bgOne": true,
+          "bgTwo": false,
+          "bgThree": false,
+          "bgFour": false,
+          "list": [
+            {
+              "text": "TALENTELY LMS is a Digital E Learning AI Driven Platform powered by Video Lectures, Assessments & Virtual Coding Labs. This LMS helps us to create an environment where all students especially for those in rural areas to have access to high-quality education.",
+              "icon": "feather-check"
+            }
+                     
+           ]
+        },
+        {
+          "title": "PMS – Profile Management System",
+          "imgFront": "/images/solution/solution-img-2.jpg",
+          "img": "/images/solution/solution-img-2.jpg",
+          "desc": "Babies enjoy classrooms made for exploring with teachers who support today’s big milestones.",
+          "bgTwo": true,
+          "bgOne": false,
+          "bgThree": false,
+          "bgFour": false,
+          "list": [
+            {
+              "text": "TALENTELY PMS helps students to create a profile digilocker by aggregating all his credentials under a single public URL. This URL can now be shared across with corporates scouting for talent thereby removing the need for a resume.",
+              "icon": "feather-check"
+            }
+     
+          ]
+        },
+        {
+          "title": "TMS – Talent Management System",
+          "imgFront": "/images/solution/solution-img-3.jpg",
+          "img": "/images/solution/solution-img-3.jpg",
+          "desc": "Babies enjoy classrooms made for exploring with teachers who support today’s big milestones.",
+          "bgThree": true,
+          "bgOne": false,
+          "bgTwo": false,
+          "bgFour": false,
+          "list": [
+            {
+              "text": "TALENTELY TMS helps in Democratizing Talent Discovery. Talent Democratization for corporates helps them to access a larger talent pool, reduce cost and hiring time, increase productivity and increase profitability. Talent Democratization for students helps them to choose and control their career development by taking well informed career decisions.",
+              "icon": "feather-check"
+            }
+         
+          ]
+        }
+      ]
+    }
+  ],
+
   "serviceTwelve": [
     {
       "sectionTitle": "Style Twelve.",
