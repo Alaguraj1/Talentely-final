@@ -52,11 +52,11 @@ const UniversityBanner = () => {
                           </strong> */}
                         </h1>
                         <div className="button-group mt--30">
-                          <Link
+                         {/*   <Link
                             className="rbt-btn btn-gradient rbt-marquee-btn"
                             href="#"
                           >
-                            {/* <span data-text="More About University">
+                           <span data-text="More About University">
                              Know More
                             </span> */}
                           </Link>
@@ -92,11 +92,11 @@ const UniversityBanner = () => {
                           </strong> */}
                         </h1>
                         <div className="button-group mt--30">
-                          <Link
+                          {/*  <Link
                             className="rbt-btn btn-gradient rbt-marquee-btn radius-round"
                             href="#"
                           >
-                            {/* <span data-text="More About University">
+                           <span data-text="More About University">
                               Know More
                             </span> */}
                           </Link>
@@ -130,11 +130,11 @@ const UniversityBanner = () => {
                           <strong className="color-white">in the lead</strong> */}
                         </h1>
                         <div className="button-group mt--30">
-                          <Link
+                          {/*  <Link
                             className="rbt-btn btn-gradient rbt-marquee-btn radius-round"
                             href="#"
                           >
-                            {/* <span data-text="More About University">
+                           <span data-text="More About University">
                               More About University
                             </span> */}
                           </Link>
