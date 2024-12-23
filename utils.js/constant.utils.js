@@ -75,9 +75,9 @@ import AwardImgSix from "../public/images/awards/awards-img-6.jpg";
 
 
 
-import SolutiionImgOne from "../public/images/solution/solution-img-1.jpg";
-import SolutiionImgTwo from "../public/images/solution/solution-img-2.jpg";
-import SolutiionImgThree from "../public/images/solution/solution-img-3.jpg";
+import SolutiionImgOne from "../public/images/solution/lms-img.jpg";
+import SolutiionImgTwo from "../public/images/solution/pms-img.jpg";
+import SolutiionImgThree from "../public/images/solution/tms-img.jpg";
 import { Link } from "react-scroll";
 
 export const companies = [
@@ -184,19 +184,19 @@ export const brand = [
   },
   {
     img: brandLogo13,
-    linkURL: "https://verandarace.com",
+    linkURL: "https://logiceducation.org/",
   },
   {
     img: brandLogo14,
-    linkURL: "https://verandarace.com",
+    linkURL: "https://verandapress.com",
   }, 
   {
     img: brandLogo15,
-    linkURL: "https://verandarace.com",
+    linkURL: "https://www.publications.talentkerala.com",
   },
   {
     img: brandLogo16,
-    linkURL: "https://verandarace.com",
+    linkURL: "https://www.edureka.co/",
   },
 
 ];
@@ -233,25 +233,25 @@ export const Solutiion = [
   {
     img: SolutiionImgOne,
     title: "LMS – Learning Management System",
-    subTitle:"TALENTELY LMS is a Digital E Learning AI Driven Platform powered by Video Lectures, Assessments & Virtual Coding Labs. This LMS helps us to create an environment where all students especially for those in rural areas to have access to high-quality education.",
+    subTitle:"TALENTELY LMS is a Digital E Learning AI Driven Platform powered by Video Lectures..",
     linkname:"Read More",
-    linkURL:"/about",
+    linkURL:"/our-solution",
 
   },
   {
     img: SolutiionImgTwo,
     title: "PMS – Profile Management System",
-    subTitle:"TALENTELY PMS helps students to create a profile digilocker by aggregating all his credentials under a single public URL. This URL can now be shared across with corporates scouting for talent thereby removing the need for a resume.",
+    subTitle:"TALENTELY PMS helps students to create a profile digilocker by aggregating all.. ",
     linkname:"Read More",
-    linkURL:"/about",
+    linkURL:"/our-solution",
     
   },
   {
     img: SolutiionImgThree,
     title: "TMS – Talent Management System",
-    subTitle:"TALENTELY TMS helps in Democratizing Talent Discovery. Talent Democratization for corporates helps them to access a larger talent pool, reduce cost and hiring time, increase productivity and increase profitability.",
+    subTitle:"TALENTELY TMS helps in Democratizing Talent Discovery..",
     linkname:"Read More",
-    linkURL:"/about",
+    linkURL:"/our-solution",
   },
 
 ];

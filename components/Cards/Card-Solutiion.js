@@ -39,7 +39,7 @@ const CardSolution = (props) => {
                   <h5 className="rbt-card-title" style={{fontWeight:'500'}} dangerouslySetInnerHTML={{__html:item.title}}></h5>
                   <p>{item.subTitle}</p>
                   <div className="btn-text link-txt">
-                    <Link href={`${item.LinkURl}`}>{item.linkname}</Link>
+                    <Link href={`${item.linkURL}`}>{item.linkname}</Link>
                   </div>
                 </div>
               </div>

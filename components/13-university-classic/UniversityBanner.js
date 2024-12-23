@@ -58,8 +58,8 @@ const UniversityBanner = () => {
                           >
                            <span data-text="More About University">
                              Know More
-                            </span> */}
-                          </Link>
+                            </span> 
+                          </Link>*/}
                         </div>
                     
                       </div>
@@ -98,8 +98,8 @@ const UniversityBanner = () => {
                           >
                            <span data-text="More About University">
                               Know More
-                            </span> */}
-                          </Link>
+                            </span> 
+                          </Link>*/}
                         </div>
                  
                       </div>
@@ -136,8 +136,8 @@ const UniversityBanner = () => {
                           >
                            <span data-text="More About University">
                               More About University
-                            </span> */}
-                          </Link>
+                            </span> 
+                          </Link>*/}
                         </div>
                         <div className="social-share-wrapper mt--40">
                       

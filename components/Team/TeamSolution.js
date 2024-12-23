@@ -16,7 +16,7 @@ const TeamSolution = () => {
         </h3>
         <div className="row row--15">
         <div className="col-lg-6 col-md-6 col-12 mt--30">
-        <img src={'/images/solution/talentely-AI.jpg'} alt="Talentely"/>
+        <img src={'/images/solution/your-ai-powered.jpg'} alt="Talentely"/>
         </div>
 
         <div className="col-lg-6 col-md-6 col-12 mt--30">

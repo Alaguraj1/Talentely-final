@@ -140,7 +140,10 @@ const WhyTAlentely = () => {
             </div>
  
          </div>
-     
+         <div className="row row--15">
+           <div className="col-lg-2 col-md-6 col-12 mt--30 text-center">
+           </div>
+          </div>
               {/* Content for count end*/}
 
             </div>
