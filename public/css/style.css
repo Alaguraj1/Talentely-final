@@ -43,6 +43,10 @@
   --color-card-4: #e9f6ff;
   --color-card-5: #5024D1;
   --color-card-6: #3B3B46;
+  --color-card-7: #5024D1;
+  --color-card-8: #FF8F3C;
+  --color-card-9: #3EB75E;
+  --color-card-10: #ED4141;
   --color-success: #3EB75E;
   --color-danger: #FF0003;
   --color-warning: #FF8F3C;
@@ -1347,6 +1351,18 @@ ul.rbt-dropdown-menu li a {
 
 .card-bg-6 {
   background: var(--color-card-6) !important;
+}
+.card-bg-7 {
+  background: var(--color-card-7) !important;
+}
+.card-bg-8 {
+  background: var(--color-card-8) !important;
+}
+.card-bg-9 {
+  background: var(--color-card-9) !important;
+}
+.card-bg-10 {
+  background: var(--color-card-10) !important;
 }
 
 .bg-color-success {
@@ -34693,3 +34709,5 @@ Course Sidebar
 .swiper-slide img{width: 100%;}
 .txt-black{color:#000 !important;}
 .link-txt a{color:#26377a !important; text-decoration: underline;}
+.highlights{padding: 15px; color:#000;}
+.highlights h4{margin-bottom: 5px; color:#152564; }

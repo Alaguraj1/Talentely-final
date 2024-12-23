@@ -49,18 +49,22 @@ import com_48 from "../public/images/companies/48.png";
 import com_49 from "../public/images/companies/49.png";
 import com_50 from "../public/images/companies/50.png";
 
-import brandLogo1 from "../public/images/brand/l-7.png";
-import brandLogo2 from "../public/images/brand/l-10.png";
-import brandLogo3 from "../public/images/brand/l-9.png";
-import brandLogo4 from "../public/images/brand/l-6.png";
-import brandLogo5 from "../public/images/brand/l-11.png";
-import brandLogo6 from "../public/images/brand/l-1.png";
-import brandLogo7 from "../public/images/brand/l-5.png";
-import brandLogo8 from "../public/images/brand/l-3.png";
-import brandLogo9 from "../public/images/brand/l-2.png";
-import brandLogo10 from "../public/images/brand/l-12.png";
-import brandLogo11 from "../public/images/brand/l-8.png";
-import brandLogo12 from "../public/images/brand/l-4.png";
+import brandLogo1 from "../public/images/brand/1.png";
+import brandLogo2 from "../public/images/brand/2.png";
+import brandLogo3 from "../public/images/brand/3.png";
+import brandLogo4 from "../public/images/brand/4.png";
+import brandLogo5 from "../public/images/brand/5.png";
+import brandLogo6 from "../public/images/brand/6.png";
+import brandLogo7 from "../public/images/brand/7.png";
+import brandLogo8 from "../public/images/brand/8.png";
+import brandLogo9 from "../public/images/brand/9.png";
+import brandLogo10 from "../public/images/brand/10.png";
+import brandLogo11 from "../public/images/brand/11.png";
+import brandLogo12 from "../public/images/brand/12.png";
+import brandLogo13 from "../public/images/brand/13.png";
+import brandLogo14 from "../public/images/brand/14.png";
+import brandLogo15 from "../public/images/brand/15.png";
+import brandLogo16 from "../public/images/brand/16.png";
 
 import AwardImgOne from "../public/images/awards/awards-img-1.jpg";
 import AwardImgTwo from "../public/images/awards/awards-img-2.jpg";
@@ -132,11 +136,11 @@ export const companies = [
 export const brand = [
   {
     img: brandLogo1,
-    linkURL: "https://www.edureka.co/",
+    linkURL: "https://www.sixphrase.com/",
   },
   {
     img: brandLogo2,
-    linkURL: "https://www.sixphrase.com/",
+    linkURL: "https://www.edureka.co/",
   },
   {
     img: brandLogo3,
@@ -178,6 +182,23 @@ export const brand = [
     img: brandLogo12,
     linkURL: "https://verandarace.com",
   },
+  {
+    img: brandLogo13,
+    linkURL: "https://verandarace.com",
+  },
+  {
+    img: brandLogo14,
+    linkURL: "https://verandarace.com",
+  }, 
+  {
+    img: brandLogo15,
+    linkURL: "https://verandarace.com",
+  },
+  {
+    img: brandLogo16,
+    linkURL: "https://verandarace.com",
+  },
+
 ];
 
 export const Awards = [

@@ -295,7 +295,18 @@
 .card-bg-6 {
   background: var(--color-card-6) !important;
 }
-
+.card-bg-7 {
+  background: #1BA2DB;
+}
+.card-bg-8 {
+  background: #FF8F3C;
+}
+.card-bg-9 {
+  background: #3EB75E;
+}
+.card-bg-10 {
+  background: #ED4141;
+}
 .bg-color-success {
   background-color: var(--color-success) !important;
 }
@@ -501,3 +512,5 @@
 .max-width-auto {
   max-width: inherit !important;
 }
+.highlights{padding: 15px; color:#000;}
+.highlights h4{margin-bottom: 5px; color:#152564; }
