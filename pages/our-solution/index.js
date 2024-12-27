@@ -35,6 +35,7 @@ const OurSolution = () => {
         <Context>
           <HeaderStyleThree
             headerType="rbt-transparent-header"
+            
             headerSticky="rbt-sticky"
           />
           <MobileMenu />
