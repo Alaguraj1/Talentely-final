@@ -114,7 +114,7 @@ const AboutUsPage = () => {
             </div>
           </div>
 
-          <div className="rbt-call-to-action-area  bg-gradient-16 rbt-section-gap-own">
+          <div className="rbt-call-to-action-area  bg-gradient-18 rbt-section-gap-own">
             <AboutCallToAction />
           </div>
 
