@@ -3,7 +3,7 @@ import Link from "next/link";
 import Image from "next/image";
 
 import { Swiper, SwiperSlide } from "swiper/react";
-import { FreeMode, Navigation, Thumbs } from "swiper/modules";
+import { FreeMode, Navigation, Thumbs, Autoplay } from "swiper/modules";
 
 // import bannerImgOne from "../../public/images/banner/banner-small-01.png";
 // import bannerImgTwo from "../../public/images/banner/banner-small-02.png";
@@ -14,21 +14,25 @@ const UniversityBanner = () => {
 
   return (
     <>
-      <Swiper
-        className="swiper rbt-banner-activation rbt-slider-animation rbt-arrow-between"
-        modules={[FreeMode, Navigation]}
-        ref={thumbsSwiperRef}
-        slidesPerView={1}
-        spaceBetween={0}
-        loop={false}
-        autoHeight={true}
-        navigation={{
-          nextEl: ".rbt-arrow-left",
-          prevEl: ".rbt-arrow-right",
-          clickable: true,
-        }}
-        // thumbs={{ swiper: thumbsSwiperRef.current }}
-      >
+     <Swiper
+  className="swiper rbt-banner-activation rbt-slider-animation rbt-arrow-between"
+  modules={[FreeMode, Navigation, Autoplay]}
+  ref={thumbsSwiperRef}
+  slidesPerView={1}
+  spaceBetween={0}
+  loop={true}
+  autoHeight={true}
+  autoplay={{
+    delay: 3000, // Adjust as needed
+    disableOnInteraction: false,
+  }}
+  navigation={{
+    nextEl: ".rbt-arrow-left",
+    prevEl: ".rbt-arrow-right",
+    clickable: true
+    ,
+  }}
+>
         <div className="swiper-wrapper">
         <SwiperSlide className="swiper-slide">
             <div
