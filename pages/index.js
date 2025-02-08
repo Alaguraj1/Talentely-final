@@ -14,6 +14,7 @@ import LanguageAcademy from "@/components/08-language-academy/LanguageAcademy";
 import OnlineCourse from "@/components/10-online-course/OnlineCourse";
 import BackToTop from "./backToTop";
 import UniversityBanner from "@/components/13-university-classic/UniversityBanner";
+import AccessTalent from "@/components/08-language-academy/AccessTalent";
 
 const Home = () => {
   return (
@@ -27,12 +28,14 @@ const Home = () => {
             headerType="rbt-transparent-header"
             headerSticky="rbt-sticky"
           />
+          <AccessTalent />
           <div className="rbt-slider-main-wrapper position-relative">
         <UniversityBanner />
       </div>
           {/* <Cart /> */}
 
           {/* <OnlineCourse />  */}
+        
           <LanguageAcademy />
 
           <BackToTop />
