@@ -30,6 +30,123 @@ const UniversityBanner = () => {
         // thumbs={{ swiper: thumbsSwiperRef.current }}
       >
         <div className="swiper-wrapper">
+        <SwiperSlide className="swiper-slide">
+            <div
+              className="rbt-banner-area rbt-banner-6 variation-03 bg_image bg_image--13"
+             
+            >
+              <div className="wrapper w-100">
+                <div className="container">
+                  <div className="row align-items-center">
+                    <div className="col-lg-12">
+                      <div className="inner text-center">
+                        <div className="section-title">
+                          {/* <span className="subtitle bg-white-opacity d-inline-block">
+                          Lorem ipsum dolor sit amet
+                          </span> */}
+                        </div>
+                        <h1 className="title w-700">
+                        {/* Suspendisse eu arcu massa <br />{" "}
+                          <strong className="color-white">
+                          condimentum ipsum.
+                          </strong> */}
+                        </h1>
+                        <div className="button-group mt--30">
+                         {/*   <Link
+                            className="rbt-btn btn-gradient rbt-marquee-btn"
+                            href="#"
+                          >
+                           <span data-text="More About University">
+                             Know More
+                            </span> 
+                          </Link>*/}
+                        </div>
+                    
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </SwiperSlide>
+          <SwiperSlide className="swiper-slide">
+            <div
+              className="rbt-banner-area rbt-banner-6 variation-03 bg_image bg_image--14"
+             
+            >
+              <div className="wrapper w-100">
+                <div className="container">
+                  <div className="row align-items-center">
+                    <div className="col-lg-12">
+                      <div className="inner text-center">
+                        <div className="section-title">
+                          {/* <span className="subtitle bg-white-opacity d-inline-block">
+                          Lorem ipsum dolor sit amet
+                          </span> */}
+                        </div>
+                        <h1 className="title w-700">
+                        {/* Suspendisse eu arcu massa <br />{" "}
+                          <strong className="color-white">
+                          condimentum ipsum.
+                          </strong> */}
+                        </h1>
+                        <div className="button-group mt--30">
+                         {/*   <Link
+                            className="rbt-btn btn-gradient rbt-marquee-btn"
+                            href="#"
+                          >
+                           <span data-text="More About University">
+                             Know More
+                            </span> 
+                          </Link>*/}
+                        </div>
+                    
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </SwiperSlide>
+          <SwiperSlide className="swiper-slide">
+            <div
+              className="rbt-banner-area rbt-banner-6 variation-03 bg_image bg_image--15"
+             
+            >
+              <div className="wrapper w-100">
+                <div className="container">
+                  <div className="row align-items-center">
+                    <div className="col-lg-12">
+                      <div className="inner text-center">
+                        <div className="section-title">
+                          {/* <span className="subtitle bg-white-opacity d-inline-block">
+                          Lorem ipsum dolor sit amet
+                          </span> */}
+                        </div>
+                        <h1 className="title w-700">
+                        {/* Suspendisse eu arcu massa <br />{" "}
+                          <strong className="color-white">
+                          condimentum ipsum.
+                          </strong> */}
+                        </h1>
+                        <div className="button-group mt--30">
+                         {/*   <Link
+                            className="rbt-btn btn-gradient rbt-marquee-btn"
+                            href="#"
+                          >
+                           <span data-text="More About University">
+                             Know More
+                            </span> 
+                          </Link>*/}
+                        </div>
+                    
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </SwiperSlide>
           <SwiperSlide className="swiper-slide">
             <div
               className="rbt-banner-area rbt-banner-6 variation-03 bg_image bg_image--17"
