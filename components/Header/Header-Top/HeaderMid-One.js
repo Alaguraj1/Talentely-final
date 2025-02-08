@@ -154,7 +154,7 @@ const HeaderMidOne = ({
 
                   <Link
                     className="rbt-btn rbt-switch-btn btn-gradient btn-sm hover-transform-none"
-                    href="https://lms.talentely.com/login" target="_blank"
+                    href="https://tms.lms.talentely.com/login" target="_blank"
                     style={{
                       fontSize: "12px",
                       height: "38px",
@@ -166,7 +166,7 @@ const HeaderMidOne = ({
 
                   <Link
                     className="rbt-btn rbt-switch-btn btn-gradient btn-sm hover-transform-none"
-                    href="https://lms.talentely.com/login" target="_blank"
+                    href="https://tms.lms.talentely.com/login" target="_blank"
                     style={{
                       fontSize: "12px",
                       height: "38px",

@@ -27,10 +27,10 @@ const CopyRight = () => {
                   <Link href="https://lms.talentely.com/login" target="_blank">Student Login</Link> |
                 </li>
                 <li>
-                  <Link href="https://lms.talentely.com/login" target="_blank">Recruiter Login</Link> |
+                  <Link href="https://tms.lms.talentely.com/login" target="_blank">Recruiter Login</Link> |
                 </li>
                 <li>
-                  <Link href="https://lms.talentely.com/login" target="_blank">Interviewer Login</Link>
+                  <Link href="https://tms.lms.talentely.com/login" target="_blank">Interviewer Login</Link>
                 </li>
               </ul>
             </div>

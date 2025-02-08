@@ -180,7 +180,7 @@
       "details": [
         {
           "img": "/images/contact/full-stack-java.jpg",
-          "name": "<b>650+</b><br>Java Full Stack "
+          "name": "Java Full Stack "
         }
       ]
     },
@@ -191,7 +191,7 @@
       "details": [
         {
           "img": "/images/contact/data-science.jpg",
-          "name": "<b>637+</b><br>Data Science & Analytics"
+          "name": "Data Science & Analytics"
         }
       ]
     },
@@ -202,7 +202,7 @@
       "details": [
         {
           "img": "/images/contact/bi-visualization.jpg",
-          "name": "<b>418+</b><br>Power BI"
+          "name": "Power BI"
         }
       ]
     },
@@ -213,7 +213,7 @@
       "details": [
         {
           "img": "/images/contact/cyber-security.jpg",
-          "name": "<b>482+</b><br>Cyber & Network Security"
+          "name": "Cyber & Network Security"
         }
       ]
     },
@@ -225,7 +225,7 @@
       "details": [
         {
           "img": "/images/contact/cloud-computing.jpg",
-          "name": "<b>381 +</b><br>Cloud AWS"
+          "name": "Cloud AWS"
         }
       ]
     },
@@ -237,7 +237,7 @@
       "details": [
         {
           "img": "/images/contact/devops.jpg",
-          "name": "<b>286+</b><br>DevOps"
+          "name": "DevOps"
         }
       ]
     },
@@ -248,7 +248,7 @@
       "details": [
         {
           "img": "/images/contact/programming-frameworks.jpg",
-          "name": "<b>32K+</b><br>C++ Programmers"
+          "name": "C++ Programmers"
         }
       ]
     },
@@ -259,18 +259,18 @@
       "details": [
         {
           "img": "/images/contact/programming-frameworks.jpg",
-          "name": "<b>25K+</b><br>Python Programmers"
+          "name": "Python Programmers"
         }
       ]
     },
     {
-      "img": "/images/contact/full-stack-java.jpg",
+      "img": "/images/contact/full<b>286+<-stack-java.jpg",
       "isLarge": true,
       "isActive": true,
       "details": [
         {
           "img": "/images/contact/full-stack-java.jpg",
-          "name": "<b>28K+</b><br>Java Programmers "
+          "name": "Java Programmers "
         }
       ]
     },
@@ -282,7 +282,7 @@
       "details": [
         {
           "img": "/images/contact/architecture-design-patterns.jpg",
-          "name": "<b>18K+</b><br>Data Structure Experts"
+          "name": "Data Structure Experts"
         }
       ]
     },
@@ -295,7 +295,7 @@
       "details": [
         {
           "img": "/images/contact/programming-frameworks.jpg",
-          "name": "<b>18K+</b><br>Algorithm Experts"
+          "name": "Algorithm Experts"
         }
       ]
     },
