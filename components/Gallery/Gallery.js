@@ -96,7 +96,7 @@ const Gallery = () => {
                 </p> */}
         </div>
 
-        <div className="row g-5 parent-gallery-container px-5 py-5">
+        <div className="row g-5 parent-gallery-container px-5 py-5 mb-5">
      
      {GalleryData &&
        GalleryData?.map((data, index) => (
