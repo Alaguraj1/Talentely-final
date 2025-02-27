@@ -9010,6 +9010,32 @@ hr {
   background-image: url(../images/bg/bg-image-18.jpg);
 }
 
+
+.universityBannersm .bg_image--13 {
+  background-image: url(../images/bg/mobile-size-1.jpg) !important;
+}
+
+.bg_image--14-m {
+  background-image: url(../images/bg/bg-image-14.jpg);
+}
+
+.bg_image--15-m {
+  background-image: url(../images/bg/bg-image-15.jpg);
+}
+
+.bg_image--16-m {
+  background-image: url(../images/bg/bg-image-16.jpg);
+}
+
+.bg_image--17-m {
+  background-image: url(../images/bg/bg-image-17.jpg);
+}
+
+.bg_image--18-m {
+  background-image: url(../images/bg/bg-image-18.jpg);
+}
+
+
 .bg_image--19 {
   background-image: url(../images/bg/bg-image-19.jpg);
 }
@@ -34711,3 +34737,5 @@ Course Sidebar
 .link-txt a{color:#26377a !important; text-decoration: underline;}
 .highlights{padding: 15px; color:#000;}
 .highlights h4{margin-bottom: 5px; color:#152564; }
+
+

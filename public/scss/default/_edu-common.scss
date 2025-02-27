@@ -721,9 +721,52 @@ hr {
 }
 
 @for $i from 1 through 23 {
-    .bg_image--#{$i} {
-        background-image: url(../../images/bg/bg-image-#{$i}.jpg);
+    // .bg_image--#{$i} {
+    //     background-image: url(../../images/bg/bg-image-#{$i}.jpg);
+    // }
+
+    .UniversityBannerlg .bg_image--13{
+        background-image: url(../../images/bg/bg-image-23.jpg);
     }
+    .UniversityBannerlg .bg_image--14{
+        background-image: url(../../images/bg/bg-image-24.jpg);
+    }
+    .UniversityBannerlg .bg_image--15{
+        background-image: url(../../images/bg/bg-image-25.jpg);
+    }
+    
+    .UniversityBannerlg .bg_image--16{
+        background-image: url(../../images/bg/bg-image-16.jpg);
+    }
+
+    .UniversityBannerlg .bg_image--17{
+        background-image: url(../../images/bg/bg-image-28.jpg);
+    }
+
+    .UniversityBannerlg .bg_image--18{
+        background-image: url(../../images/bg/bg-image-26.jpg);
+    }
+}
+@for $i from 1 through 23 {
+    .universityBannersm .bg_image--13 {
+        background-image: url(../../images/bg/mobile-size-1.jpg);
+    }
+    .universityBannersm .bg_image--14 {
+        background-image: url(../../images/bg/mobile-size-9.jpg);
+    }
+    .universityBannersm .bg_image--15 {
+        background-image: url(../../images/bg/mobile-size-4.jpg);
+    }
+    .universityBannersm .bg_image--16 {
+        background-image: url(../../images/bg/mobile-size-1.jpg);
+    }
+    .universityBannersm .bg_image--17 {
+        background-image: url(../../images/bg/mobile-size-12.jpg);
+    }
+    .universityBannersm .bg_image--18 {
+        background-image: url(../../images/bg/mobile-size-8.jpg);
+    }
+
 }
 
 .bg_image--9 {

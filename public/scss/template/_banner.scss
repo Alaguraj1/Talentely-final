@@ -1118,6 +1118,14 @@
             height: auto;
         }
 
+        @media (max-width:450px){
+            // border: 1px solid red;
+            height: 350px !important;
+            width: 100% !important;
+            background-size: contain;
+            background-position: center;
+        }
+
         .wrapper {
             @media #{$lg-layout} {
                 padding: 100px 0;
@@ -1829,3 +1837,19 @@
         }
     }
 }
+.universityBannersm{
+    display: none ;
+}
+@media (max-width:450px){
+    .UniversityBannerlg{
+      display: none !important;
+    }
+    .universityBannersm{
+        display: block !important;
+    }
+
+   
+    
+  }
+
+ 

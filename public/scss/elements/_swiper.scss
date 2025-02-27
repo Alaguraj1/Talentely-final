@@ -276,6 +276,38 @@
     }
 }
 
+@media (max-width:450px){
+    .rbt-arrow-between {
+        .rbt-swiper-arrow {
+           
+            background-color: transparent !important;
+           
+
+            .custom-overfolow {
+    
+                width: 50% !important;
+                height: 50% !important;
+                
+            }
+            
+            &::after {
+               
+                width: 50% !important;
+                height: 50% !important;
+            }
+            &:hover {
+                background: transparent !important;
+               
+            }
+    }
+    
+   
+    }
+}
+
+
+
+
 .parent-swiper {
     margin: -30px;
 
