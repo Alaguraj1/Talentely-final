@@ -361,10 +361,10 @@ const UniversityBanner = () => {
   spaceBetween={0}
   loop={true}
   autoHeight={true}
-  // autoplay={{
-  //   delay: 3000, // Adjust as needed
-  //   disableOnInteraction: false,
-  // }}
+  autoplay={{
+    delay: 3000, // Adjust as needed
+    disableOnInteraction: false,
+  }}
   navigation={{
     nextEl: ".rbt-arrow-left",
     prevEl: ".rbt-arrow-right",
