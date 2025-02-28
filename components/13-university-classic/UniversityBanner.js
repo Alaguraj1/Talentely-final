@@ -31,8 +31,8 @@ const UniversityBanner = () => {
     disableOnInteraction: false,
   }}
   navigation={{
-    nextEl: ".rbt-arrow-left",
-    prevEl: ".rbt-arrow-right",
+    nextEl: ".rbt-arrow-right",
+    prevEl: ".rbt-arrow-left",
     clickable: true
     ,
   }}
@@ -366,8 +366,8 @@ const UniversityBanner = () => {
     disableOnInteraction: false,
   }}
   navigation={{
-    nextEl: ".rbt-arrow-left",
-    prevEl: ".rbt-arrow-right",
+    nextEl: ".rbt-arrow-right",
+    prevEl: ".rbt-arrow-left",
     clickable: true
     ,
   }}
